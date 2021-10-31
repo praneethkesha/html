@@ -6,19 +6,15 @@ width: 100%;
     display: inline-block;
 }
 .section{
-    width: 35%;
+    width: 49%;
     display: inline-block;
+}
+img{
+    width: 100%;
 }
 .align-top{
     vertical-align: top;
 }
-.sub{
-    margin-left: 10px;
-}
-img{
-    height: 300px;
-    width: 300px;
-}
 .align-center{
-    vertical-align: top;
+    vertical-align: 350px;
 }
